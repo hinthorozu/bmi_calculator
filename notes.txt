@@ -1,0 +1,36 @@
+//40 kg/m2 üzerinde ise III.Derece morbid obez
+//35-39.9 kg/m2 arasında ise II.Derece obez
+//30-34.9 kg/m2 arasında ise I.Derece obez
+//25-29.9 kg/m2 arasında ise fazla kilolu
+//18.5-24.9 kg/m2 arasında ise normal kilolu
+//18.5 kg/m2’nin altında ise zayıf
+
+
+
+2. açıklamalar => Sonuçlara göre bilgileri göster
+
+3. https://www.formdakal.com/vucut-kitle-indeksi-hesaplama/
+Boy Kilo Endeksi (BMI) 31.3 kg/m2
+İdeal Vücut Ağırlığınız 93 kg
+Vücut Yüzey Alanınız 2.6 m2
+Yağsız Vücut Ağırlığınız 88 kg
+
+http://www.taylankumeli.com/hesaplama/yemek-olculeri/l => burada farklı hesaplamalar var
+
+https://play.google.com/store/apps/details?id=tr.com.emrekesler.vucutkitleendeksi
+
+
+
+kol bacak boyun göğüs gibi ölçüleri girdir.
+tüm bileri hesapladıktan sonra kaydetmek istiyormusun diye soracaksın
+artı bu kayıt esnasında fotoda çekebilecek
+başlık verebilecek
+bunları sol üstte 3 tikli bir listede son 10 taneyi göstereceksin
+Tüm listeyi gösteren bir işlem yapacaksın.
+
+
+
+Zemin rengi =0xFF003B46
+kartların rengi = 0xFF07575B
+turuncu = 0xFFFBB364
+iconları ios içinde düzenle arka plan boş normalde
